@@ -1,14 +1,14 @@
 {
-  "name": "intermediateJS-template",
+  "name": "intermediatejs-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Check out the issues of this repo for the course materials.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "peipei",
   "license": "ISC",
   "devDependencies": {
     "bcrypt": "^3.0.6",
@@ -16,5 +16,13 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.7",
     "nodemon": "^1.19.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angpeipei/intermediate-node-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angpeipei/intermediate-node-course/issues"
+  },
+  "homepage": "https://github.com/angpeipei/intermediate-node-course#readme"
 }
